@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Character encoding for the document -->
+    <meta charset="UTF-8">
+
+    <!-- Viewport setting for responsive design -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Page title -->
+    <title>Simple Quiz App</title>
+
+    <!-- Link to external CSS file -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Main container for the quiz app -->
+    <div class="quiz-container">
+        <!-- App title -->
+        <h1>Simple Quiz App</h1>
+
+        <!-- Section to display questions and answer buttons -->
+        <div id="question-display">
+            <!-- Placeholder for question text -->
+            <h2 id="question-text">Question goes here</h2>
+
+            <!-- Container where answer buttons will be dynamically added -->
+            <div id="answer-buttons">
+            </div>
+
+            <!-- Button to move to the next question -->
+            <button id="next-btn">Next</button>
+        </div>
+
+        <!-- Section to display the final result, hidden by default -->
+        <div id="result-display" class="hidden">
+            <!-- Final score will be shown here -->
+            <h2 id="final-score"></h2>
+
+            <!-- Button to restart the quiz -->
+            <button id="restart-btn">Restart Quiz</button>
+        </div>
+    </div>
+
+    <!-- Link to external JavaScript file -->
+    <script src="script.js"></script>
+</body>
+</html>
