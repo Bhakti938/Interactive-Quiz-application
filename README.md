@@ -1,1 +1,1 @@
-# Quiz-application
+# Interactive Quiz-application
