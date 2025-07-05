@@ -21,5 +21,5 @@ The experience of building this quiz app was very rewarding. It allowed me to im
 Overall, the quiz application was a complete frontend project that combined design, logic, and interactivity. It helped me understand the flow of real-time input and output, how to validate answers, and how to display results in a clean and meaningful way. The project boosted my confidence in using JavaScript effectively and taught me how small projects can greatly enhance understanding of fundamental concepts.
 
 *OUTPUT*
-
+<img width="1920" height="937" alt="Image" src="https://github.com/user-attachments/assets/4bcc00f1-0e7d-4d5d-9022-088b9cc8a6b2" />
 
